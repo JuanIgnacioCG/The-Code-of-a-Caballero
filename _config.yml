@@ -1,21 +1,17 @@
 title: Welcome to Flexton
-description: Flexton is a responsive and ultra-minimal theme for Jekyll.
+description: A blog to describe some of my projects during my work with images, data mining models and a bit of relational databases.
 
 # Author
-author-name:    Clayton Hanson
+author-name:    Juan I. Caballero
 author-image:   1.jpg
-author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+author-job:     Materials and computer science researcher
+author-email:   juan_ignaciocg.blog@outlook.es 
+about-author:   I am a materials engineer willing to deep in the development of data driven methodologies for manufacturing, mostly applying machine learning
 
 # Social settings
-social-twitter:   artemsheludko_
 social-facebook:
-social-github:    artemsheludko
-social-pinterest: artemsheludko
-social-instagram: artemsheludko_
-social-youtube:
+social-github:    https://github.com/JuanIgnacioCG
+social-pinterest: JuanIgnacioCG
 social-vk:   
 social-linkedin:
 
